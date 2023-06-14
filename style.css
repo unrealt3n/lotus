@@ -180,8 +180,13 @@ body {
   width: 190rem;
   height: 35rem;
   position: relative;
-  margin-left: -7rem;
+  left: -18rem;
   bottom: 6rem;
+}
+
+.iclass{
+  position: relative;
+  right: 37rem;
 }
 
 .bx-chevron-right {
@@ -358,8 +363,7 @@ body {
 
 .section5 {
   background-color: black;
-  /* height: 141vh; */
-  height: 122vh;
+  height: 143vh;
 }
 
 .sec5-1 {
