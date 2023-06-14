@@ -177,6 +177,8 @@ body {
 }
 
 #evija {
+  width: 190rem;
+  height: 35rem;
   position: relative;
   margin-left: -7rem;
   bottom: 6rem;
@@ -356,7 +358,8 @@ body {
 
 .section5 {
   background-color: black;
-    height: 120vh;
+  /* height: 141vh; */
+  height: 122vh;
 }
 
 .sec5-1 {
@@ -534,8 +537,8 @@ body {
   display: flex;
   width: 50rem;
   position: relative;
-  margin-left: 75rem;
-  top: -1rem; 
+  margin-left: 96rem;
+  top: -1rem;
 }
 
 /* section 6 */
