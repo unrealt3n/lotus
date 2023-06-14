@@ -181,19 +181,13 @@ body {
   height: 35rem;
   position: relative;
   left: -250px;
-    bottom: 6rem;
-}
-
-.iclass{
-  position: relative;
-  right: 559px;
+  bottom: 6rem;
 }
 
 .bx-chevron-right {
   position: relative;
   bottom: 2.2rem;
-  right: 5rem;
-
+  right: 37rem;
 }
 
 /* section 3 */
